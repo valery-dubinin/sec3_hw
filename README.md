@@ -85,7 +85,6 @@ nmap:
 -  открыть файл /etc/fail2ban/jail.conf,
 -  найти секцию **ssh**,
 -  установить **enabled**  в **true**.
-![img](https://github.com/valery-dubinin/sec3_hw/blob/main/img/9.png)
 
 ### Решение 2
 
